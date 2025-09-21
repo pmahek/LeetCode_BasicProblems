@@ -1,18 +1,27 @@
-# LeetCode Easy Problems
+LeetCode Easy Problems Solutions
 
-This notebook contains solutions to some common **LeetCode Easy problems**, with explanations and Python code. Each problem includes a brief description, key idea, and example input/output.
+This repository contains solutions to popular LeetCode Easy problems written in Python. The goal is to practice coding, problem-solving, and create beginner-friendly, well-documented solutions that can be shared on GitHub.
 
----
+Each problem includes:
 
-## 1. Two Sum
+Problem description – what the problem asks
 
-**Problem:**  
-Given an array of integers `nums` and an integer `target`, find indices of two numbers such that they add up to `target`.
+Example input/output – sample cases to understand the problem
 
-**Key Idea:**  
-Use a dictionary (hash map) to store numbers and their indices for an efficient O(n) solution.
+Python solution – clean and easy-to-understand code
 
-**Example:**
-```python
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
+Problems Included
+1. Two Sum
+
+Description:
+Given a list of integers and a target number, find the indices of two numbers that add up to the target.
+
+2. Reverse String
+
+Description:
+Reverse a list of characters in-place.
+
+3. Contains Duplicate
+
+Description:
+Check if a list contains duplicate numbers.
